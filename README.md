@@ -10,4 +10,10 @@ day3:
 day4:
     1. Generate random head and tails.
     2. select random names from list of names.
-    3. Nested List modification. 
+    3. Nested List modification.
+day5:
+    1. Average height calculation of students.
+    2. Calculate highest score in the list.
+    3. sum all the even number with given input. eg. if we give 100 then sum all the even number till 100.
+    4. Fizz buzz game. if number divisible buy 3 print "Fizz", if divisible by 5 "Buzz". if divisible by both "FizzBuzz". else print number
+    5. Generate a strong password using random letter number and symbols. with given user input.
