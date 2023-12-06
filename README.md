@@ -11,6 +11,7 @@ day4:
     1. Generate random head and tails.
     2. select random names from list of names.
     3. Nested List modification.
+    4.rock paper game implementation
 day5:
     1. Average height calculation of students.
     2. Calculate highest score in the list.
