@@ -20,3 +20,5 @@ day5:
     5. Generate a strong password using random letter number and symbols. with given user input.
 day6:
     1. Reeborg game. (https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
+day7:
+    1.hangman game.
