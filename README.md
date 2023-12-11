@@ -25,3 +25,7 @@ day7:
 day8:
     1. function argument and input parameter.
     2. ceaser cipher  
+day9:
+    1.Grades calculation.
+    2.Travel log using dictionary.
+    3. Auction project.
