@@ -29,3 +29,7 @@ day9:
     1.Grades calculation.
     2.Travel log using dictionary.
     3. Auction project.
+day10:
+    1. calculate how many days in month with given year. here input is year and month.
+    2. Calculator using function.
+    
