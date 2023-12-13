@@ -32,7 +32,8 @@ day9:
 day10:
     1. calculate how many days in month with given year. here input is year and month.
     2. Calculator using function.
-    
+day11:
+    1. Blackjack game implemented.
 day15.
     1. pycharm installatio.
     2. make a coffee machine.
