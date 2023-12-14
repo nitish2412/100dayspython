@@ -34,6 +34,8 @@ day10:
     2. Calculator using function.
 day11:
     1. Blackjack game implemented.
+day12:
+    1. Guess a number Game.
 day15.
     1. pycharm installatio.
     2. make a coffee machine.
