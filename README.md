@@ -36,6 +36,10 @@ day11:
     1. Blackjack game implemented.
 day12:
     1. Guess a number Game.
+day13:
+    1. Odd even debugging.
+    2. Leap year debug.
+    3. Fizz Buzz debug
 day15.
     1. pycharm installatio.
     2. make a coffee machine.
