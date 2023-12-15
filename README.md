@@ -39,7 +39,9 @@ day12:
 day13:
     1. Odd even debugging.
     2. Leap year debug.
-    3. Fizz Buzz debug
+    3. Fizz Buzz debug.
+day14:
+    1. Higher lower game.
 day15.
     1. pycharm installatio.
     2. make a coffee machine.
