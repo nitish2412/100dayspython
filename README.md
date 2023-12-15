@@ -45,4 +45,7 @@ day14:
 day15.
     1. pycharm installatio.
     2. make a coffee machine.
+day17.
+    1. constructor, attributes, method.
+    2. make a quiz application
     
