@@ -45,6 +45,10 @@ day14:
 day15.
     1. pycharm installatio.
     2. make a coffee machine.
+day16.
+    1.make a coffee machine using oops.
+    2.External library installation. class and object.
+    
 day17.
     1. constructor, attributes, method.
     2. make a quiz application
