@@ -53,3 +53,6 @@ day17.
     1. constructor, attributes, method.
     2. make a quiz application
     
+day18.
+    1. Turtle GUI experiment. 
+    2. Drawing a dot using color list.
