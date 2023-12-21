@@ -59,3 +59,6 @@ day18.
 day19.
     1. Event listner.
     2. Turtle racing game.
+day20_21.
+    1. Inheritance, list slicing.
+    2. snake game development.
