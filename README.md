@@ -62,3 +62,6 @@ day19.
 day20_21.
     1. Inheritance, list slicing.
     2. snake game development.
+    
+day22.
+    1.Build pong game(The famous arcade game)
