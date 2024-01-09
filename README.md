@@ -65,3 +65,10 @@ day20_21.
     
 day22.
     1.Build pong game(The famous arcade game)
+day24.
+    1. File handling.
+    2. adding high score feature in snake game.
+    3. automatic file creation for mail. dynamic change name in mail.
+day25.
+    1. Pandas library.
+    2. US state game.
