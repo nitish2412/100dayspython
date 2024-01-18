@@ -72,3 +72,6 @@ day24.
 day25.
     1. Pandas library.
     2. US state game.
+day26.
+    1. List, dict, string, tuple comprehension.
+    2. NATO alphabet project.
