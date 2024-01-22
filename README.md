@@ -72,3 +72,11 @@ day24.
 day25.
     1. Pandas library.
     2. US state game.
+day227.
+    1.tkinter, *args,**kwargs. GUI program.
+    2. Miles to km converter GUI program.
+day32.
+    1. send mail using smtplib.
+    2. Send bithday wishes maail atutomatic
+    3.automate task using "pythonanywhere".
+    
