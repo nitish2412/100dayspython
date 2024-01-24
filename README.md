@@ -86,4 +86,7 @@ day32.
     1.https://www.latlong.net/
     2.API example.
     3.using ISS api example find lat long. another sunrise sunset api use.
+  day34.
+    1.question generation using trivia api.
+    2.GUI using tkinter.
 
