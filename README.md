@@ -89,4 +89,11 @@ day32.
   day34.
     1.question generation using trivia api.
     2.GUI using tkinter.
+  day35.
+    1.https://jsonviewer.stack.hu/
+    2.https://openweathermap.org/
+    3.https://www.latlong.net/
+    4.https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
+    5.https://apilist.fun/
+    6.Get weather information using api of openweather. and send sms using twilio api.
 
