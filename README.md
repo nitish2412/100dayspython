@@ -96,4 +96,8 @@ day32.
     4.https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
     5.https://apilist.fun/
     6.Get weather information using api of openweather. and send sms using twilio api.
+  day36.
+    1. get stock price using https://www.alphavantage.co/query api
+    2. get news using https://newsapi.org/v2/everything api.
+    3. send sms related to stock using twilio api.
 
