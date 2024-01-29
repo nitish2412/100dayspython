@@ -75,3 +75,8 @@ day25.
 day26.
     1. List, dict, string, tuple comprehension.
     2. NATO alphabet project.
+day28.
+    1. Dynamic typing.
+    2. Pomodoro app using Tkinter GUI.
+    
+    
