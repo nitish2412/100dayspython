@@ -74,9 +74,32 @@ day25.
     2. US state game.
 day26.
     1. List, dict, string, tuple comprehension.
-    2. NATO alphabet project.
+    2. NATO alphabet project.    
+day27.
+    1.tkinter, *args,**kwargs. GUI program.
+    2. Miles to km converter GUI program.
 day28.
     1. Dynamic typing.
     2. Pomodoro app using Tkinter GUI.
-    
-    
+day32.
+    1. send mail using smtplib.
+    2. Send bithday wishes maail atutomatic
+    3.automate task using "pythonanywhere".
+ day33.
+    1.https://www.latlong.net/
+    2.API example.
+    3.using ISS api example find lat long. another sunrise sunset api use.
+  day34.
+    1.question generation using trivia api.
+    2.GUI using tkinter.
+  day35.
+    1.https://jsonviewer.stack.hu/
+    2.https://openweathermap.org/
+    3.https://www.latlong.net/
+    4.https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
+    5.https://apilist.fun/
+    6.Get weather information using api of openweather. and send sms using twilio api.
+  day36.
+    1. get stock price using https://www.alphavantage.co/query api
+    2. get news using https://newsapi.org/v2/everything api.
+    3. send sms related to stock using twilio api.
