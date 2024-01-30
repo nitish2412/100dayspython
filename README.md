@@ -74,10 +74,13 @@ day25.
     2. US state game.
 day26.
     1. List, dict, string, tuple comprehension.
-    2. NATO alphabet project.
+    2. NATO alphabet project.    
 day27.
     1.tkinter, *args,**kwargs. GUI program.
     2. Miles to km converter GUI program.
+day28.
+    1. Dynamic typing.
+    2. Pomodoro app using Tkinter GUI.
 day32.
     1. send mail using smtplib.
     2. Send bithday wishes maail atutomatic
@@ -100,7 +103,12 @@ day32.
     1. get stock price using https://www.alphavantage.co/query api
     2. get news using https://newsapi.org/v2/everything api.
     3. send sms related to stock using twilio api.
+  day37.
+    1.https://pixe.la/  //pixla api
+    2. Habbit tracking using pixela api.
   day41.
     1.https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
     2.https://www.lipsum.com/feed/html, broipsum.com
 
+
+    
