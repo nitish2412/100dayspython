@@ -103,7 +103,12 @@ day32.
     1. get stock price using https://www.alphavantage.co/query api
     2. get news using https://newsapi.org/v2/everything api.
     3. send sms related to stock using twilio api.
- day37.
+  day37.
     1.https://pixe.la/  //pixla api
     2. Habbit tracking using pixela api.
+  day41.
+    1.https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+    2.https://www.lipsum.com/feed/html, broipsum.com
+
+
     
