@@ -109,6 +109,9 @@ day32.
   day41.
     1.https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
     2.https://www.lipsum.com/feed/html, broipsum.com
+  day45.
+    1.webscapping with beautifulsoup.
+    2.100 movie watch list using webscapping.
 
 
     
