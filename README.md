@@ -112,6 +112,8 @@ day32.
   day45.
     1.webscapping with beautifulsoup.
     2.100 movie watch list using webscapping.
+  day46.
+    1. top 100 music song scrap from Billboard site on particular date.
 
 
     
