@@ -114,6 +114,14 @@ day32.
     2.100 movie watch list using webscapping.
   day46.
     1. top 100 music song scrap from Billboard site on particular date.
+  day54.
+    #. export FLASK_APP=hello.py
+    #. flask run
+    1. python decorator function.
+    2. pass function as a argument.
+    3. Nested function.
+    4. Flask framework.
+    
 
 
     
