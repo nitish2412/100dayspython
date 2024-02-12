@@ -109,6 +109,10 @@ day32.
   day41.
     1.https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
     2.https://www.lipsum.com/feed/html, broipsum.com
+ day48.
+    1. selenium tutorial.
+    2. using selenium web scraping. auto click and auto fill form.
+    3. Bot creation.
 
 
     
