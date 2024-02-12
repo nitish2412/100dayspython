@@ -109,11 +109,16 @@ day32.
   day41.
     1.https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
     2.https://www.lipsum.com/feed/html, broipsum.com
+
   day45.
     1.webscapping with beautifulsoup.
     2.100 movie watch list using webscapping.
   day46.
     1. top 100 music song scrap from Billboard site on particular date.
+ day48.
+    1. selenium tutorial.
+    2. using selenium web scraping. auto click and auto fill form.
+    3. Bot creation.
   day54.
     #. export FLASK_APP=hello.py
     #. flask run
@@ -129,5 +134,6 @@ day32.
     1. chrome developer tool in console type: document.body.contentEditable = true
     2. Serving static files.
     3. How to use template for fast development.
+
 
     
