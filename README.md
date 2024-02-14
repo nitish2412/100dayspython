@@ -119,6 +119,8 @@ day32.
     1. selenium tutorial.
     2. using selenium web scraping. auto click and auto fill form.
     3. Bot creation.
+day49.
+    1.Using selenium auto apply job or save job
   day54.
     #. export FLASK_APP=hello.py
     #. flask run
