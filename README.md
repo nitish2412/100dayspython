@@ -132,7 +132,10 @@ day49.
     1. URL parsing.
     2.HtML element rendering.
     3.Guess ther number project
-
+ day56.
+    1. chrome developer tool in console type: document.body.contentEditable = true
+    2. Serving static files.
+    3. How to use template for fast development.
 
 
     
