@@ -134,6 +134,12 @@ day32.
     1. chrome developer tool in console type: document.body.contentEditable = true
     2. Serving static files.
     3. How to use template for fast development.
+  day57.
+    1. Templeting with jinja.
+    2. Blog post creation.
+    3. Dynamic html page.
+    4. Inside html write python code.
+    
 
 
     
