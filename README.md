@@ -143,6 +143,10 @@ day51.
     2. Blog post creation.
     3. Dynamic html page.
     4. Inside html write python code.
+   day58.
+    1. bootstrap tutorial. https://getbootstrap.com
+    2.Bootstrap Layout. bootstrap component.
+    3.TinDog project
     
 
 
