@@ -123,6 +123,8 @@ day49.
     1.Using selenium auto apply job or save job
 day51.
     1.Auto tweet complaint in tweeter(twitter bot).
+day53.
+    1.capstone project. scraping house price using beautifulsoup and automate this data into google form using selenium.
   day54.
     #. export FLASK_APP=hello.py
     #. flask run
