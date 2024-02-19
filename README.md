@@ -140,6 +140,16 @@ day53.
     1. chrome developer tool in console type: document.body.contentEditable = true
     2. Serving static files.
     3. How to use template for fast development.
+  day57.
+    1. Templeting with jinja.
+    2. Blog post creation.
+    3. Dynamic html page.
+    4. Inside html write python code.
+   day58.
+    1. bootstrap tutorial. https://getbootstrap.com
+    2.Bootstrap Layout. bootstrap component.
+    3.TinDog project
+    
 
 
     
